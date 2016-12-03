@@ -29,6 +29,6 @@ A third feature.
 
 One more, almost.... Done!
 
-finishing touches!
+Finishing touches!
 
 1.0
