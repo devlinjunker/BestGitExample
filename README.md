@@ -3,8 +3,6 @@ djunker
 
 First bit of stuff added.
 
-More stuff.
-
 Hey its me, your things.
 
 Basic stuff added.
@@ -29,8 +27,8 @@ A third feature.
 
 0.3
 
-one more almost.... Done!
+One more, almost.... Done!
 
-finishing touches!
+Finishing touches!
 
 1.0
