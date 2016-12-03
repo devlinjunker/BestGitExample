@@ -5,7 +5,7 @@ First bit of stuff added.
 
 More stuff.
 
-Hey its me, ur things.
+Hey its me, your things.
 
 Basic stuff added.
 
