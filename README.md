@@ -26,3 +26,5 @@ feature one
 feature number 2.
 
 a third feature
+
+0.3
