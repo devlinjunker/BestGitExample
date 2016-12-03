@@ -19,12 +19,12 @@ Last one before another release.
 
 0.2
 
-coming in hot!
+Coming in hot!
 
-feature one
+Feature one.
 
-feature number 2.
+Feature number 2.
 
-a third feature
+A third feature.
 
 0.3
