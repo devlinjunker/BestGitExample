@@ -21,4 +21,4 @@ last one before another release
 
 coming in hot!
 
-\feature number 2
+feature number 2.
