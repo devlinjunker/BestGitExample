@@ -29,7 +29,7 @@ A third feature.
 
 0.3
 
-one more almost.... Done!
+One more, almost.... Done!
 
 finishing touches!
 
