@@ -7,3 +7,5 @@ more stuff
 
 
 hey its me, ur things
+
+basic stuff added
