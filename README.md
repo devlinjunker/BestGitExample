@@ -18,3 +18,13 @@ More stuff.
 Last one before another release.
 
 0.2
+
+Coming in hot!
+
+Feature #1.
+
+Feature #2.
+
+A third feature.
+
+0.3
