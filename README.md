@@ -11,10 +11,10 @@ Basic stuff added.
 
 0.1
 
-another feature.
+Another feature.
 
-moer stuff.
+More stuff.
 
-last one before another release.
+Last one before another release.
 
 0.2
