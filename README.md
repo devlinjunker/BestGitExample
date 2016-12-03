@@ -21,9 +21,9 @@ Last one before another release.
 
 Coming in hot!
 
-Feature one.
+Feature #1.
 
-Feature number 2.
+Feature #2.
 
 A third feature.
 
