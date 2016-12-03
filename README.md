@@ -32,3 +32,5 @@ One more, almost.... Done!
 Finishing touches!
 
 1.0
+
+Feature taht wont be complted until 1.0. Some more work done. Finished!
