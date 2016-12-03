@@ -32,4 +32,4 @@ a third feature
 
 
 
-feature taht wont be complted until 1.0
+feature taht wont be complted until 1.0. some more work done.
