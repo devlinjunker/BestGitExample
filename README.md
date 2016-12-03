@@ -32,3 +32,5 @@ A third feature.
 one more almost.... Done!
 
 finishing touches!
+
+1.0
