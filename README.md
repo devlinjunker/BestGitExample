@@ -1,14 +1,13 @@
 BestGitExample
 djunker
 
-first bit of stuff added
+First bit of stuff added.
 
-more stuff
+More stuff.
 
+Hey its me, ur things.
 
-hey its me, ur things
-
-basic stuff added
+Basic stuff added.
 
 0.1
 
