@@ -22,3 +22,5 @@ last one before another release
 coming in hot!
 
 feature one
+
+feature number 2.
